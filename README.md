@@ -4,7 +4,10 @@ Job Posting APP with aesthetic UI Below is there video off output :
 
 
 
-https://github.com/ARYANK-08/Job-Flutter-App-UI/assets/120780784/4e623d76-b186-4fa9-818c-686145e70d72
+https://github.com/ARYANK-08/Job-Flutter-App-UI/assets/120780784/baf8bb6b-5ac1-4a01-8a19-d852f6320410
+
+
+
 
 
 ## Getting Started
