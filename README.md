@@ -1,6 +1,11 @@
 # job
 
-A new Flutter project.
+Job Posting APP with aesthetic UI Below is there video off output : 
+
+
+
+https://github.com/ARYANK-08/Job-Flutter-App-UI/assets/120780784/4e623d76-b186-4fa9-818c-686145e70d72
+
 
 ## Getting Started
 
